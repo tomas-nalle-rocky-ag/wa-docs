@@ -26,8 +26,11 @@
 ```
     
   - se o modelo de negócio da empresa faz uma venda única a um cliente (sem possibilidade de recompra):
-    * nesse caso, o LTV é 1;
-    * Ex.: - é oferecido um único curso, e a pessoa não poderá consumir outro produto da empresa;
+ 
+ ```
+    - nesse caso, o LTV é 1;
+    - Ex.: - é oferecido um único curso, e a pessoa não poderá consumir outro produto da empresa;
+  ```
 
 ---
 
@@ -42,20 +45,24 @@
 ### Example 1:
 
 * Coca Cola
+
+```
   - a customer consumes 1 can of Coke every evening at $1, so $7 dollars a week, $30-31 a month, $365 a year;
   - $365 is the LTV Coca-Cola got from this costumer;
   - the highter the LTV, the better the business is doing.
+```
 
 ---
 
 ### LTV:
 
+```
  * helps predict how many customers you need to atract to make business profitable;
  * is about planning:
    - what to do bring customers with the same LTV;
    - aim to track customers with the highest LTV;
    - support them more carefully (ads, high-touch sales and etc.).
-
+```
 ---
 
 ### Calculating:
@@ -70,19 +77,21 @@ ARPU = Average monthly recurring revenue per user.
 ### Example 2:
 
 * Spotify user LTV
+
+```
   - an article at medium.com says a Spotify user LTV is USD$31;
   - mutiply the number of users X LTV to approximately see the company revenue.
+```
 
 ----
 
 ### Example 3:
 
 * Beer customer
+
+```
   - How many times the person consumed a product over a period of time X the cost of the product
   - Example: the average customer buys 25 cans of beer per month, at $2 each, over a year:<br>
 	25 X 12 X 2 = 600<br>
         $600 is the LTV of this company's beer customer over a year.<br>
-
-<br><br>
-
----
+```
