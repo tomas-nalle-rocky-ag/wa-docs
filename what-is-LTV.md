@@ -5,12 +5,15 @@
 ## 1) [LTV: O que é e como calcular? | GLOSSÁRIO DO MARKETING](https://www.youtu.be/2PNNsyD7pKs)
 
 * É uma métrica que analisa a lucratividade a médio e longo prazo;
+
+```
   - valor do cliente ao longo do tempo com a empresa;
   - quantas vezes uma pessoa compra com a empresa ao longo de um período de tempo;
   - em casos onde o produto é consumido mensalmente, por exemplo, o LTV pode ser 3, 6, 8 ou 12 meses;
   - geralmente é feita a análise pelo CPF, uma consulta ao dados que revela o quantas vezes em média os clientes consumiram;
+```
 
-  - desse modo, índices como o CPL ou o CPC podem ser comparados com o LTV:
+  * Índices como o CPL ou o CPC podem ser comparados com o LTV:
     - quanto custou para fazer a primeira venda
   - Ex.:
 
