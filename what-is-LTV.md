@@ -73,7 +73,7 @@ ARPU = Average monthly recurring revenue per user.
         - CPL     =  100;
         - Venda   =  200 (1 curso de 1 mês ou mensalidade de um curso);
         - LTV     =  1200 / 6 meses;
-        - Receita =  1100;
+        - Receita =  LTV - CPL = 1200 - 100 = 1100;
 ```
     
   - se o modelo de negócio da empresa faz uma venda única a um cliente (sem possibilidade de recompra):
