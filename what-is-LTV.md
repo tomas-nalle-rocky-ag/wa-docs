@@ -24,10 +24,10 @@
 
 ```
     Lead - curso
-      - CPL     =  $100;
+      - CPMAT   =  $125;
       - Venda   =  $200 (1 curso de 1 mês ou mensalidade de um curso);
       - LTV     =  $1200 / 6 meses;
-      - Receita =  LTV - CPL = 1200 - 100 = $1100.
+      - Receita =  LTV - CPL = 1200 - 125 = $1075.
 ```
     
   - se o modelo de negócio da empresa faz uma venda única a um cliente (sem possibilidade de recompra):
