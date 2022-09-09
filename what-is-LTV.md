@@ -4,7 +4,7 @@
 
 ###### <i>Clique nos títulos para ver o vídeo do</i> [YouTube](https://www.youtube.com/)
 
-## 1) [LTV: O que é e como calcular? | GLOSSÁRIO DO MARKETING](https://www.youtu.be/2PNNsyD7pKs)
+## 1) [LTV: O que é e como calcular? | GLOSSÁRIO DO MARKETING](https://youtu.be/2PNNsyD7pKs)
 
 * É uma métrica que analisa a lucratividade a médio e longo prazo;
 
@@ -41,7 +41,7 @@
 
 <br><br>
 
-## 2) [What is LTV and How to Calculate Customer Lifetime Value](https://www.youtu.be/LKLuuia_xEI)
+## 2) [What is LTV and How to Calculate Customer Lifetime Value](https://youtu.be/LKLuuia_xEI)
 
 * Important for e-Commerce and SaaS
 
