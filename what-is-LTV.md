@@ -95,6 +95,6 @@
 ```
       - How many times the person consumed a product over a period of time X the cost of the product
       - Example: the average customer buys 25 cans of beer per month, at $2 each, over a year:<br>
-	  * 25 X 12 X 2 = 600;<br>
-          * $600 is the LTV of this company's beer customer over a year.<br>
+	  * 25 X 12 X 2 = 600;
+          * $600 is the LTV of this company's beer customer over a year.
 ```
