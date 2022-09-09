@@ -2,7 +2,7 @@
 
 <br>
 
-##### <i>Clique nos títulos para ver o vídeo do</i> [YouTube](https://www.youtube.com/)
+###### <i>Clique nos títulos para ver o vídeo do</i> [YouTube](https://www.youtube.com/)
 
 ## 1) [LTV: O que é e como calcular? | GLOSSÁRIO DO MARKETING](https://www.youtu.be/2PNNsyD7pKs)
 
