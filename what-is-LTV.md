@@ -10,29 +10,29 @@
       - valor do cliente ao longo do tempo com a empresa;
       - quantas vezes uma pessoa compra com a empresa ao longo de um período de tempo;
       - em casos onde o produto é consumido mensalmente, por exemplo, o LTV pode ser 3, 6, 8, 12 meses, etc.;
-      - geralmente é feita a análise pelo CPF, uma consulta ao dados que revela o quantas vezes em média os clientes consumiram;
+      - geralmente é feita a análise pelo CPF, uma consulta aos dados que revela quantas vezes, em média, os clientes consumiram.
 ```
 
   * Índices como o CPL ou o CPC podem ser comparados com o LTV:
 
 ```
-  - quanto custou para fazer a primeira venda
+  - quanto custou para fazer a primeira venda.
 ```
   - Ex.:
 
 ```
     Lead - curso
-      - CPL     =  100;
-      - Venda   =  200 (1 curso de 1 mês ou mensalidade de um curso);
-      - LTV     =  1200 / 6 meses;
-      - Receita =  1100;
+      - CPL     =  $100;
+      - Venda   =  $200 (1 curso de 1 mês ou mensalidade de um curso);
+      - LTV     =  $1200 / 6 meses;
+      - Receita =  LTV - CPL = 1200 - 100 = $1100.
 ```
     
   - se o modelo de negócio da empresa faz uma venda única a um cliente (sem possibilidade de recompra):
  
  ```
       - nesse caso, o LTV é 1;
-      - Ex.: - é oferecido um único curso, e a pessoa não poderá consumir outro produto da empresa;
+      - Ex.: - é oferecido um único curso, e a pessoa não poderá consumir outro produto da empresa.
   ```
 
 ---
@@ -95,6 +95,6 @@
 ```
       - How many times the person consumed a product over a period of time X the cost of the product
       - Example: the average customer buys 25 cans of beer per month, at $2 each, over a year:<br>
-	  * 25 X 12 X 2 = 600<br>
+	  * 25 X 12 X 2 = 600;<br>
           * $600 is the LTV of this company's beer customer over a year.<br>
 ```
