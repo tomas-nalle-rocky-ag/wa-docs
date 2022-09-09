@@ -6,7 +6,7 @@
 
 * É uma métrica que analisa a lucratividade a médio e longo prazo;
   - valor do cliente ao longo do tempo com a empresa;
-  - quantas vezes uma pessoa compra com a empresa ao longo de um perído de tempo;
+  - quantas vezes uma pessoa compra com a empresa ao longo de um período de tempo;
   - em casos onde o produto é consumido mensalmente, por exemplo, o LTV pode ser 3, 6, 8 ou 12 meses;
   - geralmente é feita a análise pelo CPF, uma consulta ao dados que revela o quantas vezes em média os clientes consumiram;
 
