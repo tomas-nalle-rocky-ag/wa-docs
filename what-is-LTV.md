@@ -64,7 +64,7 @@
 ```
  * helps predict how many customers you need to atract to make business profitable;
  * is about planning:
-      - what to do bring customers with the same LTV;
+      - what to do to bring customers with the same LTV;
       - aim to track customers with the highest LTV;
       - support them more carefully (ads, high-touch sales and etc.).
 ```
