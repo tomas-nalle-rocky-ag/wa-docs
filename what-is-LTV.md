@@ -54,7 +54,7 @@
 ```
       - a customer consumes 1 can of Coke every evening at $1, so $7 dollars a week, $30-31 a month, $365 a year;
       - $365 is the LTV Coca-Cola got from this costumer;
-      - the highter the LTV, the better the business is doing.
+      - the higher the LTV, the better the business is doing.
 ```
 
 ---
