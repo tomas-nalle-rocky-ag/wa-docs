@@ -100,3 +100,10 @@
 	  * 25 X 12 X 2 = 600;
           * $600 is the LTV of this company's beer customer over a year.
 ```
+
+## 3) [Customer Lifetime Value - Concept, Calculations and Examples - Simplest Explanation Ever](https://youtu.be/lytQxBNDC3Y)
+
+ ```
+      - This is a longer video (15min);
+      - It explains the concept very well.
+```
